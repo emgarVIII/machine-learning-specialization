@@ -5,8 +5,6 @@
 
 Contains projects, solutions and notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) hosted on Coursera and endorsed by Stanford University and DeepLearning.AI. Taught by Andrew Ng.
 
-[Certificate Of Completion](https://coursera.org/share/dcdd75fdff182426d7c2382bfdace2a7)
-
 Check out my LinkedIn: [LinkedIn](https://www.linkedin.com/in/emgar/)
 
 <hr/>
@@ -22,14 +20,7 @@ Check out my LinkedIn: [LinkedIn](https://www.linkedin.com/in/emgar/)
     - [Model Representation](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab03_Model_Representation_Soln.ipynb)
     - [Cost Function](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab04_Cost_function_Soln.ipynb)
     - [Gradient Descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab05_Gradient_Descent_Soln.ipynb)
-
 <br/>
-
-
-
-
 <br/>
-
-
- 
+ [Certificate Of Completion](https://coursera.org/share/dcdd75fdff182426d7c2382bfdace2a7)
  
