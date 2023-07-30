@@ -9,7 +9,7 @@ Check out my LinkedIn: [LinkedIn](https://www.linkedin.com/in/emgar/)
 
 <hr/>
 
-## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+## [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
 - [Week 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1)
 
@@ -22,5 +22,5 @@ Check out my LinkedIn: [LinkedIn](https://www.linkedin.com/in/emgar/)
     - [Gradient Descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab05_Gradient_Descent_Soln.ipynb)
 <br/>
 <br/>
- [Certificate Of Completion](https://coursera.org/share/dcdd75fdff182426d7c2382bfdace2a7)
+[Certificate Of Completion](https://coursera.org/share/dcdd75fdff182426d7c2382bfdace2a7)
  
