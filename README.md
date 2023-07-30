@@ -7,6 +7,7 @@ Contains projects, solutions and notes for the [Machine Learning Specialization]
 
 [Certificate Of Completion](https://coursera.org/share/dcdd75fdff182426d7c2382bfdace2a7/)
 
+
 Check out my LinkedIn: [LinkedIn](https://www.linkedin.com/in/emgar/)
 
 <hr/>
