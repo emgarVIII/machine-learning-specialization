@@ -5,7 +5,7 @@
 
 Contains projects, solutions and notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) hosted on Coursera and endorsed by Stanford University and DeepLearning.AI. Taught by Andrew Ng.
 
-#### [Certificate Of Completion]([https://coursera.org/share/195768f3c1a83e42298d3f61dae99d01](https://coursera.org/share/dcdd75fdff182426d7c2382bfdace2a7)https://coursera.org/share/dcdd75fdff182426d7c2382bfdace2a7)
+#### [Certificate Of Completion](https://coursera.org/share/dcdd75fdff182426d7c2382bfdace2a7/)
 
 Check out my LinkedIn: [LinkedIn](https://www.linkedin.com/in/emgar/)
 
