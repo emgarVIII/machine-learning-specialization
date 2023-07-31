@@ -13,25 +13,26 @@ Here are some highlights of the projects I've completed during this specializati
 
 1. **Restaurant Profit Prediction with Linear Regression**
 
-   ![Restaurant Profit Prediction](https://github.com/emgarVIII/machine-learning-specialization/blob/main/other/Restaurant%20Profit%20Prediction/restaurant_profits_linear_regression.PNG?raw=true)
-
    In this project, I played the role of a restaurant franchise CEO looking to open a new restaurant in a city. Using historical data on profits and populations from cities where the chain already has restaurants, I built a linear regression model to identify potential cities that might yield higher profits for the new restaurant.
+
+ ![Restaurant Profit Prediction](https://github.com/emgarVIII/machine-learning-specialization/blob/main/other/Restaurant%20Profit%20Prediction/restaurant_profits_linear_regression.PNG?raw=true)
+
 
    - [Project GitHub Link](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W2%20Regression%20with%20multiple%20input%20variables/labs/C1_W2_Linear_Regression.ipynb)
 
-2. **University Admission Probability with Logistic Regression**
-
-   ![University Admission Probability](https://github.com/emgarVIII/machine-learning-specialization/blob/main/other/University%20Admission%20Probability/admission_linear_fit.PNG?raw=true)
+3. **University Admission Probability with Logistic Regression**
 
    As an administrator of a university department, my task was to determine an applicant's chance of admission based on their scores on two exams. I built a logistic regression model using historical data from previous applicants that included the applicant’s scores on two exams and the admissions decision. People who are placed above the line are most likely to be accepted into the University.
 
+ ![University Admission Probability](https://github.com/emgarVIII/machine-learning-specialization/blob/main/other/University%20Admission%20Probability/admission_linear_fit.PNG?raw=true)
+
    - [Project GitHub Link](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W3%20Classification/labs/C1_W3_Logistic_Regression.ipynb)
    
-3. **Microchip Quality Assurance with Regularized Logistic Regression**
-
-   ![Microchip Quality Assurance](https://github.com/emgarVIII/machine-learning-specialization/blob/main/other/Microchip%20Quality%20Assurance%20with%20Regularized%20Logistic%20Regression/microchip_decision_boundary.PNG?raw=true)
+4. **Microchip Quality Assurance with Regularized Logistic Regression**
 
    As a product manager in a fabrication plant, my goal was to predict whether a microchip passes quality assurance (QA) based on results from two different tests. Using a dataset of test results on past microchips, I built a regularized logistic regression model that assists in determining whether microchips should be accepted or rejected.
+
+![Microchip Quality Assurance](https://github.com/emgarVIII/machine-learning-specialization/blob/main/other/Microchip%20Quality%20Assurance%20with%20Regularized%20Logistic%20Regression/microchip_decision_boundary.PNG?raw=true)
 
    - [Project GitHub Link](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W3%20Classification/labs/C1_W3_Logistic_Regression.ipynb)
 
