@@ -9,7 +9,7 @@ This repo contains projects, solutions and notes for the [Machine Learning Speci
 
 ## Project Highlights
 
-Here are some highlights of the projects I've completed during this specialization. These projects represent a diverse range of applications in machine learning, including regression, classification, and regularization.
+Here are some highlights of the projects I've completed during this specialization. These projects represent a diverse range of applications in machine learning, including regression, classification, and regularization. All in Python.
 
 1. **Restaurant Profit Prediction with Linear Regression**
 
