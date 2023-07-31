@@ -33,7 +33,7 @@ Here are some highlights of the projects I've completed during this specializati
 
    As a product manager in a fabrication plant, my goal was to predict whether a microchip passes quality assurance (QA) based on results from two different tests. Using a dataset of test results on past microchips, I built a regularized logistic regression model that assists in determining whether microchips should be accepted or rejected.
 
-   - [Project GitHub Link](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W4%20Regularization/labs/C1_W4_Regularized_Logistic_Regression.ipynb)
+   - [Project GitHub Link](machine-learning-specialization/blob/main/W3%20Classification/labs/C1_W3_Logistic_Regression.ipynb)
 
 Each of these projects posed unique challenges and learning opportunities, enhancing my understanding and skills in various aspects of machine learning, data analysis and software engineering.
 
