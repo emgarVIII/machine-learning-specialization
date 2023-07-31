@@ -5,44 +5,47 @@
 
 Contains projects, solutions and notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) hosted on Coursera and endorsed by Stanford University and DeepLearning.AI. Taught by Andrew Ng.
 
-Check out my LinkedIn: [LinkedIn](https://www.linkedin.com/in/emgar/)
+<hr/>
+
+## Project Highlights
+
+Here are some highlights of the projects I've completed during this specialization. These projects represent a diverse range of applications in machine learning, including regression, classification, and regularization.
+
+1. **Restaurant Profit Prediction with Linear Regression**
+
+   ![Restaurant Profit Prediction](https://github.com/emgarVIII/machine-learning-specialization/blob/main/other/Restaurant%20Profit%20Prediction/restaurant_profits_linear_regression.PNG?raw=true)
+
+   In this project, I played the role of a restaurant franchise CEO looking to open a new outlet in a city. Using historical data on profits and populations from cities where the chain already has restaurants, I built a linear regression model to identify potential cities that might yield higher profits for the new outlet.
+
+   - [Project GitHub Link](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W2%20Regression%20with%20multiple%20input%20variables/labs/C1_W2_Linear_Regression.ipynb)
+
+2. **University Admission Probability with Logistic Regression**
+
+   ![University Admission Probability](https://github.com/emgarVIII/machine-learning-specialization/blob/main/other/University%20Admission%20Probability/admission_linear_fit.PNG?raw=true)
+
+   As an administrator of a university department, my task was to determine an applicant's chance of admission based on their scores on two exams. I built a logistic regression model using historical data from previous applicants that included the applicant’s scores on two exams and the admissions decision.
+
+   - [Project GitHub Link](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W3%20Classification/labs/C1_W3_Logistic_Regression.ipynb)
+   
+3. **Microchip Quality Assurance with Regularized Logistic Regression**
+
+   ![Microchip Quality Assurance](![image](https://github.com/emgarVIII/machine-learning-specialization/assets/90861224/0411185e-9fb1-45d0-b9e8-3676aaf8a1e2)
+)
+
+   As a product manager in a fabrication plant, my goal was to predict whether a microchip passes quality assurance (QA) based on results from two different tests. Using a dataset of test results on past microchips, I built a regularized logistic regression model that assists in determining whether microchips should be accepted or rejected.
+
+   - [Project GitHub Link](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W4%20Regularization/labs/C1_W4_Regularized_Logistic_Regression.ipynb)
+
+Each of these projects posed unique challenges and learning opportunities, enhancing my understanding and skills in various aspects of machine learning.
+
+Please note that the links above will direct you to the project's Jupyter notebook on GitHub and the images give a visual representation of each project.
 
 <hr/>
 
-## [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
-- [Week 1 - Introduction to Machine Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1)
 
-    - [Practice quiz: Regression](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Practice%20quiz%20-%20Regression)
-    - [Practice quiz: Supervised vs unsupervised learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Practice%20quiz%20-%20Supervised%20vs%20unsupervised%20learning)
-    - [Practice quiz: Train the model with gradient descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Practice%20quiz%20-%20Train%20the%20model%20with%20gradient%20descent)
-  - [Optional Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs)
-    - [Model Representation](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab03_Model_Representation_Soln.ipynb)
-    - [Cost Function](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab04_Cost_function_Soln.ipynb)
-    - [Gradient Descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab05_Gradient_Descent_Soln.ipynb)
-<br/>
 
-- [Week 2 - Regression ](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1)
-
-    - [Practice quiz: Regression](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Practice%20quiz%20-%20Regression)
-    - [Practice quiz: Supervised vs unsupervised learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Practice%20quiz%20-%20Supervised%20vs%20unsupervised%20learning)
-    - [Practice quiz: Train the model with gradient descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Practice%20quiz%20-%20Train%20the%20model%20with%20gradient%20descent)
-  - [Optional Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs)
-    - [Model Representation](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab03_Model_Representation_Soln.ipynb)
-    - [Cost Function](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab04_Cost_function_Soln.ipynb)
-    - [Gradient Descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab05_Gradient_Descent_Soln.ipynb)
-<br/>
-
-- [Week 1](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1)
-
-    - [Practice quiz: Regression](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Practice%20quiz%20-%20Regression)
-    - [Practice quiz: Supervised vs unsupervised learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Practice%20quiz%20-%20Supervised%20vs%20unsupervised%20learning)
-    - [Practice quiz: Train the model with gradient descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Practice%20quiz%20-%20Train%20the%20model%20with%20gradient%20descent)
-  - [Optional Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs)
-    - [Model Representation](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab03_Model_Representation_Soln.ipynb)
-    - [Cost Function](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab04_Cost_function_Soln.ipynb)
-    - [Gradient Descent](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab05_Gradient_Descent_Soln.ipynb)
-<br/>
-<br/>
 [Certificate Of Completion](https://coursera.org/share/dcdd75fdff182426d7c2382bfdace2a7)
+
+[LinkedIn](https://www.linkedin.com/in/emgar/)
  
