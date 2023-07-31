@@ -29,7 +29,7 @@ Here are some highlights of the projects I've completed during this specializati
    
 3. **Microchip Quality Assurance with Regularized Logistic Regression**
 
-   ![Microchip Quality Assurance](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W3%20Classification/labs/C1_W3_Logistic_Regression.ipynb)
+   ![Microchip Quality Assurance](https://github.com/emgarVIII/machine-learning-specialization/blob/main/other/Microchip%20Quality%20Assurance%20with%20Regularized%20Logistic%20Regression/microchip_decision_boundary.PNG?raw=true)
 
    As a product manager in a fabrication plant, my goal was to predict whether a microchip passes quality assurance (QA) based on results from two different tests. Using a dataset of test results on past microchips, I built a regularized logistic regression model that assists in determining whether microchips should be accepted or rejected.
 
