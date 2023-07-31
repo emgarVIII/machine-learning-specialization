@@ -15,7 +15,7 @@ Here are some highlights of the projects I've completed during this specializati
 
    ![Restaurant Profit Prediction](https://github.com/emgarVIII/machine-learning-specialization/blob/main/other/Restaurant%20Profit%20Prediction/restaurant_profits_linear_regression.PNG?raw=true)
 
-   In this project, I played the role of a restaurant franchise CEO looking to open a new outlet in a city. Using historical data on profits and populations from cities where the chain already has restaurants, I built a linear regression model to identify potential cities that might yield higher profits for the new outlet.
+   In this project, I played the role of a restaurant franchise CEO looking to open a new restaurant in a city. Using historical data on profits and populations from cities where the chain already has restaurants, I built a linear regression model to identify potential cities that might yield higher profits for the new outlet.
 
    - [Project GitHub Link](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W2%20Regression%20with%20multiple%20input%20variables/labs/C1_W2_Linear_Regression.ipynb)
 
