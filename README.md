@@ -3,8 +3,6 @@
 
 ![](/resources/title-head.png)
 
-This repo contains projects, solutions and notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) hosted on Coursera and endorsed by Stanford University and DeepLearning.AI. Taught by Andrew Ng.
-
 <hr/>
 
 ## Project Highlights
@@ -45,4 +43,5 @@ Please note that the links above will direct you to the project's Jupyter notebo
 [Certificate Of Completion](https://coursera.org/share/dcdd75fdff182426d7c2382bfdace2a7)
 
 [LinkedIn](https://www.linkedin.com/in/emgar/)
- 
+
+This repo contains projects, solutions and notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) hosted on Coursera and endorsed by Stanford University and DeepLearning.AI. Taught by Andrew Ng.
