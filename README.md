@@ -1,8 +1,5 @@
 # Machine Learning Specialization endorsed by Stanford University and DeepLearning.AI
 
-
-![](/resources/title-head.png)
-
 <hr/>
 
 ## Project Highlights
