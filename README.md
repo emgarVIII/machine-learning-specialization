@@ -20,7 +20,7 @@ Here are some highlights of the projects I've completed during this specializati
 
    - [Project GitHub Link](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W2%20Regression%20with%20multiple%20input%20variables/labs/C1_W2_Linear_Regression.ipynb)
 
-3. **University Admission Probability with Logistic Regression**
+2. **University Admission Probability with Logistic Regression**
 
    As an administrator of a university department, my task was to determine an applicant's chance of admission based on their scores on two exams. I built a logistic regression model using historical data from previous applicants that included the applicant’s scores on two exams and the admissions decision. People who are placed above the line are most likely to be accepted into the University.
 
@@ -28,7 +28,7 @@ Here are some highlights of the projects I've completed during this specializati
 
    - [Project GitHub Link](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W3%20Classification/labs/C1_W3_Logistic_Regression.ipynb)
    
-4. **Microchip Quality Assurance with Regularized Logistic Regression**
+3. **Microchip Quality Assurance with Regularized Logistic Regression**
 
    As a product manager in a fabrication plant, my goal was to predict whether a microchip passes quality assurance (QA) based on results from two different tests. Using a dataset of test results on past microchips, I built a regularized logistic regression model that assists in determining whether microchips should be accepted or rejected.
 
