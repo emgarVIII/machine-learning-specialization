@@ -23,7 +23,7 @@ Here are some highlights of the projects I've completed during this specializati
 
    ![University Admission Probability](https://github.com/emgarVIII/machine-learning-specialization/blob/main/other/University%20Admission%20Probability/admission_linear_fit.PNG?raw=true)
 
-   As an administrator of a university department, my task was to determine an applicant's chance of admission based on their scores on two exams. I built a logistic regression model using historical data from previous applicants that included the applicant’s scores on two exams and the admissions decision.
+   As an administrator of a university department, my task was to determine an applicant's chance of admission based on their scores on two exams. I built a logistic regression model using historical data from previous applicants that included the applicant’s scores on two exams and the admissions decision. People who are placed above the line are most likely to be accepted into the University.
 
    - [Project GitHub Link](https://github.com/emgarVIII/machine-learning-specialization/blob/main/W3%20Classification/labs/C1_W3_Logistic_Regression.ipynb)
    
